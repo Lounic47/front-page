@@ -28,7 +28,7 @@
 
 | Proyecto | Descripción | Tecnologías |  
 |----------|-------------|-------------|  
-| **[Proyecto 1](https://)** 🚀 | Una app revolucionaria que hace X. | React, Node, MongoDB |  
+| **[Proyecto 1](https://lounic47.github.io/)** 🚀 | Encuentra el juego y superame. | HTML, CSS,  JAVA |  
 | **[Proyecto 2](https://)** 🔥 | Plataforma para Y con IA. | Python, Flask, TensorFlow |  
 
 🔍 **¿Quieres ver más?** ¡Explora mis [repositorios](https://github.com/[TuUsuario])!  
