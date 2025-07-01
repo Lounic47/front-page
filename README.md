@@ -49,7 +49,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/[TuUsuario])  
 [![Portafolio](https://img.shields.io/badge/-Portafolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://tudominio.com)  
 
-📧 **Email:** [tuemail@example.com](mailto:tuemail@example.com)  
+📧 **Email:** [dilfredisjunior4567@gmail.com]  
 
 ---
 
@@ -90,13 +90,3 @@
 Si quieres más estilo, puedes agregar GIFs o imágenes:  
 
 ![GIF de programación](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
-
----  
-
-🚀 **¡Haz que tu GitHub brille!** 🚀  
-
----  
-
-*(Reemplaza `[TuUsuario]`, `[TuNombre]`, y los enlaces con tu información real.)*  
-
-¡Espero que te guste! 😊🎉
