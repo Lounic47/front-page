@@ -37,7 +37,7 @@
 
 ## 📈 **Estadísticas de GitHub**  
 
-![Mis Stats](https://github-readme-stats.vercel.app/api?username=[TuUsuario]&show_icons=true&theme=radical)  
+![Mis Stats](https://lounic47.github.io/)  
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[TuUsuario]&layout=compact&theme=dark)  
 
